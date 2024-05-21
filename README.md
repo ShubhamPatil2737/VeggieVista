@@ -1,10 +1,10 @@
 # VeggieVista
 A data analytics project providing insights into vegetable store sales trends, inventory management, and customer preferences.
 
-Introduction
+# Introduction
 VeggieVista is a data analytics project focused on analyzing sales and inventory data for a vegetable store. The project aims to provide insights into sales trends, inventory management, and customer preferences using data visualization and statistical analysis.
 
- Data
+# Data
 The dataset includes sales data for four types of vegetables over three months. The columns in the dataset are:
 - Date: The date of the transaction
 - Vegetable: The type of vegetable (e.g., tomatoes, potatoes, onions, carrots)
@@ -14,7 +14,7 @@ The dataset includes sales data for four types of vegetables over three months. 
 - Price Per Unit: The selling price per unit of the vegetable
 - Supplier: The supplier of the vegetable
 
- Methodology
+# Methodology
 1. Data Cleaning:
    - Handled missing values and inconsistencies in the dataset.
    - Standardized date formats and ensured all data entries were accurate.
@@ -32,12 +32,12 @@ The dataset includes sales data for four types of vegetables over three months. 
    - Performed correlation analysis to identify significant factors affecting sales.
    - Conducted hypothesis testing to determine the impact of pricing strategies on sales volume.
 
- Results
+ # Results
 - Sales Trends: Identified peak sales periods and the most popular vegetables during different months.
 - Inventory Insights: Discovered patterns in inventory depletion and restocking needs.
 - Customer Preferences: Analyzed customer buying behavior and preferences for specific vegetables.
 
- Conclusion
+# Conclusion
 The VeggieVista project provided valuable insights into the vegetable store's sales and inventory management. The analysis helped in optimizing stock levels, understanding customer preferences, and improving overall sales strategies.
 
 
